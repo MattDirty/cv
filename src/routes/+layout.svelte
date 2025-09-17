@@ -11,6 +11,7 @@
 	<link rel="icon" href={favicon} />
     {#if $mode === 'dark'}
         <style>
+            @media screen {
             :root {
                 --bg-color: #1e1e1e;
                 --text-color: #eee;
@@ -18,15 +19,18 @@
                 --link-color: #3399ff;
                 --faded-text: #aaa;
             }
+        }
         </style>
     {:else}
         <style>
-            :root {
-                --bg-color: #eee;
-                --text-color: #000;
-                --highlight-color: #ffcc00;
-                --link-color: #0066cc;
-                --faded-text: #444;
+            @media screen {
+                :root {
+                    --bg-color: #eee;
+                    --text-color: #000;
+                    --highlight-color: #ffcc00;
+                    --link-color: #0066cc;
+                    --faded-text: #444;
+                }
             }
         </style>
     {/if}
@@ -41,7 +45,7 @@
 <style lang="scss">
     @media print {
         :root {
-            --bg-color: transparent;
+            --bg-color: #fff;
             --text-color: #000;
             --highlight-color: #ffcc00;
             --link-color: var(--text-color);
