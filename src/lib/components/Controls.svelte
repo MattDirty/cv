@@ -20,7 +20,7 @@
     <button onclick={toggleLang}>{$tr.switchLanguage}</button>
     <button onclick={toggleLightMode}>{$mode === 'light' ? $tr.darkMode : $tr.lightMode}</button>
     <button onclick={() => { window.print() }}>{$tr.print}</button>
-    <button onclick={() => {}}>{$tr.seeSource}</button>
+    <a href="https://github.com/MattDirty/cv" target="_blank">{$tr.seeSource}</a>
 </div>
 
 <style lang="scss">
