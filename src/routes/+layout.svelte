@@ -1,5 +1,5 @@
 <script lang="ts">
-	import favicon from '$lib/assets/favicon.svg';
+	import favicon from '$lib/assets/favicon.ico';
 	import Controls from '$lib/components/Controls.svelte';
 	import { lang } from '$lib/stores/lang';
 	import { mode } from '$lib/stores/mode';
@@ -21,6 +21,7 @@
 <svelte:head>
     <title>Mattia Torsello - CV</title>
 	<link rel="icon" href={favicon} />
+    <link rel="manifest" href="/site.webmanifest">
     {#if $mode === 'dark'}
         <style>
             @media screen {
