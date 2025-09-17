@@ -1,0 +1,18 @@
+{
+    "fr":{
+        "firstName": "Mattia",
+        "lastName": "Torsello",
+        "role": "développeur full-stack",
+        "email": "torsello.mattia@gmail.com",
+        "phone": "+41 79 438 35 30",
+        "address": "Neuchâtel, Suisse"
+    },
+    "en":{
+        "firstName": "Mattia",
+        "lastName": "Torsello",
+        "role": "full-stack developer",
+        "email": "torsello.mattia@gmail.com",
+        "phone": "+41 79 438 35 30",
+        "address": "Neuchâtel, Switzerland"
+    }
+}

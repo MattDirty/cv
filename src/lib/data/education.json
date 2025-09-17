@@ -1,0 +1,26 @@
+{
+    "fr": {
+        "title": "Éducation",
+        "items": [
+            {
+                "title": "Cursus 42",
+                "subtitle": "Ingéniérie logicielle",
+                "school": "42 Paris",
+                "start": "2014",
+                "end": "2019"
+            }
+        ]
+    },
+    "en": {
+        "title": "Education",
+        "items":[
+            {
+                "title": "42 Cursus",
+                "subtitle": "Software Engineering",
+                "school": "42 Paris",
+                "start": "2014",
+                "end": "2019"
+            }
+        ]
+    }
+}

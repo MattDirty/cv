@@ -1,0 +1,50 @@
+{
+    "fr": {
+        "title": "Compétences Techniques",
+        "items": [
+            "HTML5",
+            "CSS",
+            "JavaScript",
+            "TypeScript",
+            "Python",
+            "Rust",
+            "C",
+            "C++",
+            "SQL",
+            "PGSQL",
+            "GraphQL",
+            "Godot",
+            "Vue3",
+            "React",
+            "React Native",
+            "Git",
+            "CMake",
+            "Makefile",
+            "Unix"
+        ]
+    },
+    "en": {
+        "title": "Technical Skills",
+        "items": [
+            "HTML5",
+            "CSS",
+            "JavaScript",
+            "TypeScript",
+            "Python",
+            "Rust",
+            "C",
+            "C++",
+            "SQL",
+            "PGSQL",
+            "GraphQL",
+            "Godot",
+            "Vue3",
+            "React",
+            "React Native",
+            "Git",
+            "CMake",
+            "Makefile",
+            "Unix"
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "fr": {
+        "title": "Projets les plus pertinents",
+        "items": [
+                        {
+                "title": "CARTIER MANUFACTURE JOAILLERIE",
+                "company": "Le Dahu Studio",
+                "period": "2024",
+                "description": "Création et conception d'une interface utilisateur pour l'automatisation de la gravure laser.",
+                "points": [
+                    "Les utilisateurs devaient pouvoir contrôler entièrement le laser de gravure depuis le logiciel, avec une interface claire, rapide et empêchant les erreurs (par exemple graver un numéro de série déjà utilisé).",
+                    "La stack technique imposée était Svelte3 pour l'UI et node-red pour le backend. L'ensemble était hébergé sur des instances Kubernetes."
+                ]
+            },
+            {
+                "title": "LOGICIEL DE GESTION DU TEMPS ET SUIVI",
+                "company": "Le Dahu Studio",
+                "period": "2022",
+                "description": "Application web de feuilles de temps sur mesure pour une entreprise d'architecture/construction, reliée à leur API de facturation et à leur système d'authentification interne.",
+                "points": [
+                    "Frontend réalisé avec Vue3 Typescript Composition API en PWA.\nBackend réalisé avec Django, Django API, OAuth2, PostgreSQL en microservices.",
+                    "Travail en collaboration avec une designer spécialisée en UX. Démo possible sur demande."
+                ]
+            },
+            {
+                "title": "INSIGHT-YOU",
+                "company": "Le Dahu Studio",
+                "period": "2021",
+                "description": "Plateforme web média.",
+                "points": [
+                    "Nous avons été engagés pour refondre et préparer l'intégration d'une marketplace, d'un espace de rencontres et de plateformes e-learning en microservices sur Kubernetes.",
+                    "Nous avons aussi réalisé un Proof of Concept avec une PWA facilement déployable sur iOS et Android comme application autonome.",
+                    "Le client a finalement réalisé qu'il n'avait pas le budget nécessaire et nous avons mis fin à la collaboration."
+            
+                ]
+            },
+            {
+                "title": "VALO.CH",
+                "company": "Le Dahu Studio",
+                "period": "2021",
+                "description": "Valo.ch met en relation des entrepreneurs souhaitant céder leur société avec des conseillers.",
+                "points": [
+                    "Tout est développé avec Django.",
+                    "Le budget ne permettait pas de design, il fallait juste rendre l'outil utilisable pour un Proof of Concept. Malheureusement, l'absence de design n'a jamais été corrigée."
+
+                ]
+            }
+        ]
+    },
+    "en": {
+        "title": "Most relevant projects",
+        "items": [
+            {
+                "title": "CARTIER MANUFACTURE JOAILLERIE",
+                "company": "Le Dahu Studio",
+                "period": "2024",
+                "description": "Created and designed a user interface for laser engraving automation.",
+                "points": [
+                    "Users needed to be able to fully control the engraving laser from the software, with a clear and fast interface preventing mistakes (for example engraving a serial number already used).",
+                    "The tech stack was imposed: Svelte3 for the UI and node-red for the backend. The whole was hosted on Kubernetes instances."
+                ]
+            },
+            {
+                "title": "TIME TRACKING AND MANAGEMENT SOFTWARE",
+                "company": "Le Dahu Studio",
+                "period": "2022",
+                "description": "Custom web app for time sheets for an architecture/construction company, linked to their billing API and their internal authentication system.",
+                "points": [
+                    "Frontend made with Vue3 Typescript Composition API as a PWA.\nBackend made with Django, Django API, OAuth2, PostgreSQL in microservices.",
+                    "Worked in collaboration with a designer specialised in UX. Demo available on request."
+                ]
+            },
+            {
+                "title": "INSIGHT-YOU",
+                "company": "Le Dahu Studio",
+                "period": "2021",
+                "description": "Media web platform.",
+                "points": [
+                    "We were hired to redesign and prepare the integration of a marketplace, a dating space and e-learning platforms in microservices on Kubernetes.",
+                    "We also made a Proof of Concept with a PWA easily deployable on iOS and Android as a standalone app.",
+                    "The client eventually realised they didn't have the budget needed and we ended the collaboration."
+            
+                ]
+            },
+            {
+                "title": "VALO.CH",
+                "company": "Le Dahu Studio",
+                "period": "2021",
+                "description": "Valo.ch connects entrepreneurs wanting to sell their company with advisors.",
+                "points": [
+                    "Everything is developed with Django.",
+                    "The budget didn't allow for design, it just had to be usable for a Proof of Concept. Sadly the lack of design was never fixed."
+                ]
+            }
+        ]
+    }
+}

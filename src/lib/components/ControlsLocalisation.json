@@ -1,0 +1,16 @@
+{
+    "fr": {
+        "switchLanguage": "English please!",
+        "print": "Imprimer",
+        "darkMode": "Mode sombre",
+        "lightMode": "Mode clair",
+        "seeSource": "Voir le code source"
+    },
+    "en": {
+        "switchLanguage": "Français svp!",
+        "print": "Print",
+        "darkMode": "Dark mode",
+        "lightMode": "Light mode",
+        "seeSource": "See source code"
+    }
+}

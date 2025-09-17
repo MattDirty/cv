@@ -1,0 +1,102 @@
+{
+    "fr": [
+        {
+            "category": "Jeux Vidéo",
+            "items": [
+                "Stratégie",
+                "Simracing",
+                "RPG"
+            ]
+        },
+        {
+            "category": "Tech",
+            "items": [
+                "Montage PC",
+                "Game Jams",
+                "Geek dans l'âme"
+            ]
+        },
+        {
+            "category": "Livres",
+            "items": [
+                "Je peux vous parler pendant des heures de Terry Pratchett et de la série du Disque-Monde.",
+                "Science-Fiction"
+            ]
+        },
+        {
+            "category": "Sports",
+            "items": [
+                "Escalade",
+                "Cyclisme",
+                "F1 (je regarde, malheureusement personne ne m'a encore demandé de piloter)"
+            ]
+        },
+        {
+            "category": "Nourriture",
+            "items": [
+                "Tiramisu (je fais le meilleur du monde)",
+                "Pâtes",
+                "Pizza",
+                "Indien",
+                "Fondue et Raclette"
+            ]
+        },
+        {
+            "category": "Musique",
+            "items": [
+                "Bassiste",
+                "Rock/Metal/Punk/Stoner"
+            ]
+        }
+    ],
+    "en":[
+    {
+        "category": "Video Games",
+        "items": [
+            "Strategy",
+            "Simracing",
+            "RPG"
+        ]
+    },
+    {
+        "category": "Tech",
+        "items": [
+            "Building computers",
+            "Game Jams",
+            "Overall geek"
+        ]
+    },
+    {
+        "category": "Books",
+        "items": [
+            "I can tear your ears off speaking about Terry Pratchett and the Discworld serie.",
+            "Science-Fiction"
+        ]
+    },
+    {
+        "category": "Sports",
+        "items": [
+            "Rock Climbing",
+            "Cycling",
+            "F1 (watching, sadly no one has asked me to drive yet)"
+        ]
+    },
+    {
+        "category": "Foods",
+        "items": [
+            "Tiramisu (I make the best in the world)",
+            "Pasta",
+            "Pizza",
+            "Indian",
+            "Fondue and Raclette"
+        ]
+    },
+    {
+        "category": "Music",
+        "items": [
+            "Bass player",
+            "Rock/Metal/Punk/Stoner"
+        ]
+    }
+    ]
+}

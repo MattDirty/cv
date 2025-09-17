@@ -1,0 +1,44 @@
+{
+    "fr": {
+        "title": "Langues",
+        "items":[
+            {
+                "language": "Français",
+                "level": "Langue maternelle"
+            },
+            {
+                "language": "Italien",
+                "level":"Langue maternelle"
+            },
+            {
+                "language": "Anglais",
+                "level": "Professionnel"
+            },
+            {
+                "language": "Allemand",
+                "level": "Scolaire"
+            }
+        ]
+    },
+    "en": {
+        "title": "Languages",
+        "items":[
+            {
+                "language": "French",
+                "level": "Native"
+            },
+            {
+                "language": "Italian",
+                "level":"Native"
+            },
+            {
+                "language": "English",
+                "level": "Professional"
+            },
+            {
+                "language": "German",
+                "level": "Basic"
+            }
+        ]
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "fr": {
+        "title": "Expérience Professionnelle",
+        "items": [
+            {
+                "title": "STAGIAIRE DÉVELOPPEUR FULLSTACK",
+                "company": "UDITIS S.A.",
+                "period": "2015 — 2016",
+                "description": "Uditis est une entreprise spécialisée dans le numérique basée à Peseux, Neuchâtel, fondée il y a 23 ans. Elle propose des solutions et applications web ainsi que du support informatique. Uditis a rejoint le groupe Sequotech début 2022 et compte actuellement 65 employés.",
+                "points": [
+                    "Débuté comme stagiaire pendant 6 mois, principalement pour améliorer leur CMS interne et travailler en solo sur de nombreux projets, avant qu'on me propose un poste fixe de développeur. J'ai refusé car je sentais que j'avais encore beaucoup à apprendre à l'école.",
+                    "Participation à plusieurs projets de tailles d'équipe variées, de 1 à 10 personnes."
+                ]
+            },
+            {
+                "title": "DÉVELOPPEUR FULLSTACK",
+                "company": "Talk To Me Sarl",
+                "period": "2018 — 2021",
+                "description": "Talk To Me est une agence web basée à Neuchâtel. En plus des activités classiques d'une agence, ils ont créé et géré une application mobile appelée Totemi. J'ai poussé à l'optimisation et à la standardisation de nombreux processus internes. J'ai automatisé le système de facturation interne.",
+                "points": [
+                    "Travail main dans la main avec les designers pour résoudre les défis UI/UX.",
+                    "Réalisation de nombreux sites et applications web pour différents clients avec des besoins et contraintes variés.",
+                    "J'ai quitté l'entreprise lorsque j'ai eu l'opportunité de créer ma propre société avec mon meilleur ami."
+                ]
+            },
+            {
+                "title": "DÉVELOPPEUR FULLSTACK / CEO",
+                "company": "Le Dahu Studio Sarl",
+                "period": "2021 — 2025",
+                "description": "Le Dahu Studio est une société que j'ai fondée avec mon meilleur ami à la fin du Covid. Nous sommes spécialisés dans la fourniture de solutions sur mesure et de qualité à des entreprises trop petites pour embaucher des développeurs en interne mais ayant besoin de logiciels personnalisés.",
+                "points": [
+                    "Avec mon ami, nous avons partagé de nombreuses tâches et responsabilités mais avons reconnu nos forces et faiblesses, donc j'étais principalement en charge de la prospection, de la communication client, du frontend, de la facturation, de l'UX/UI, et d'aider les clients à ajuster leurs demandes.",
+                    "Malheureusement, en novembre 2022, j'ai subi une opération et des complications. Peu après, mon ami a eu ses propres soucis de santé et nous avons réalisé que gérer une entreprise dans ces conditions n'était plus possible."
+                ]
+            },
+            {
+                "title": "LEAD SOFTWARE ENGINEER",
+                "company": "Resilio SA",
+                "period": "2025 — présent",
+                "description": "Resilio est une startup issue d'une association de l'EPFL, basée à Renens. Elle est active dans l'IT vert et réalise des ACV (Analyses du Cycle de Vie) ainsi que les outils pour les effectuer.",
+                "points": [
+                    "Refonte, montée en charge et développement des outils existants.",
+                    "Réalisation de tâches de support.",
+                    "Conception des besoins et priorisation avec l'équipe de consultants (nos utilisateurs !)",
+                    "Encadrement de développeurs juniors et accompagnement dans leur progression chaque semaine."
+                ]
+            }
+        ]
+    },
+    "en": {
+        "title": "Work Experience",
+        "items": [
+            {
+                "title": "FULLSTACK DEVELOPER INTERN",
+                "company": "UDITIS S.A.",
+                "period": "2015 — 2016",
+                "description": "Uditis is a 23-year-old company specialising in digital technology based in Peseux, Neuchâtel. It offers web-based solutions and applications as well as IT support. Uditis joined Sequotech Group at the start of 2022 and currently has 65 employees.",
+                "points": [
+                    "Started as an intern for 6 months, mainly helping improve their in-house CMS and working solo on a lot of different projects, before being offered a permanent position as a developer. I refused the position because I felt I had a lot to learn at school still.",
+                    "Worked on several different projects of varying team size, ranging from 1 to 10 people."
+                ]
+            },
+            {
+                "title": "FULLSTACK DEVELOPER",
+                "company": "Talk To Me Sarl",
+                "period": "2018 — 2021",
+                "description": "Talk To Me is a web agency based in Neuchâtel. In plus of all the regular activities of a web agency, they created and managed a mobile app called Totemi. I pushed for optimisation and standardisation of a lot of internal processes. Automated the internal billing system.",
+                "points": [
+                    "Worked hand in hand with the designers to solve UI/UX challenges.",
+                    "Made a lot of web sites and web apps for different clients with a lot of different needs and constraints.",
+                    "Left the company when I had the opportunity to start my own business with my best friend."
+                ]
+            },
+            {
+                "title": "FULLSTACK DEVELOPER/CEO",
+                "company": "Le Dahu Studio Sarl",
+                "period": "2021 — 2025",
+                "description": "Le Dahu Studio is a company I founded with my best friend at the end of Covid, we specialise in providing custom and well made solutions to companies big enough to need custom software but too small to hire developers internally.",
+                "points": [
+                    "With my friend we shared a lot of duties and responsibilities but recognized our strengths and weaknesses so I was the one mostly doing prospecting, communication with clients, frontend, billing, UX/UI, helping clients with adjusting their requests.",
+                    "Sadly in november 2022 I had a surgery and suffered a few complications. Soon after my friend started suffering from his own health issues and we realised that managing a business in those conditions was not possible anymore."
+                ]
+            },
+            {
+                "title": "LEAD SOFTWARE ENGINEER",
+                "company": "Resilio SA",
+                "period": "2025 — present",
+                "description": "Resilio is a startup born from an EPFL association. They are based in Renens. They are active in “green IT” and they do LCA (Life Cycle Analysis) and the tools to do them.",
+                "points": [
+                    "Refactoring, scaling and further developing the existing tools.",
+                    "I performed support tasks.",
+                    "Designing needs and prioritizing them with the consultants team (our users!)",
+                    "I guided junior developers and made sure they grew and learned something new every week."
+                ]
+            }
+        ]
+    }
+}
