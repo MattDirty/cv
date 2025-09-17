@@ -1,9 +1,21 @@
 <script lang="ts">
 	import favicon from '$lib/assets/favicon.svg';
 	import Controls from '$lib/components/Controls.svelte';
+	import { lang } from '$lib/stores/lang';
 	import { mode } from '$lib/stores/mode';
 
-    let { children }: { children?: any } = $props(); 
+    let { children }: { children?: any } = $props();
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        mode.set('dark');
+    }
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', event => {
+        mode.set(event.matches ? "dark" : "light");
+    });
+
+    if (navigator.language.startsWith('fr'))
+        lang.set('fr');
+    else
+        lang.set('en');
 </script>
 
 <svelte:head>
