@@ -16,8 +16,8 @@
         <h2>{role}</h2>
         <p><a href="mailto:{email}">{email}</a></p>
         <p><a href="phone:{phone}">{phone}</a></p>
-        <p class="github"><a href="{github}" target="_blank">github</a></p>
-        <p class="github for-print"><a href="{github}" target="_blank">{github}</a></p>
+        <p class="for-screen"><a href="{github}" target="_blank">github</a></p>
+        <p class="for-print"><a href="{github}" target="_blank">{github}</a></p>
         <p>{address}</p>
     </div>
     <img src={profilePicture} alt="profil de Mattia Torsello" />
@@ -38,17 +38,5 @@
     }
     img {
         height: 100px;
-    }
-
-    .for-print {
-        display: none;
-    }
-    @media print {
-        .github {
-            display: none;
-        }
-        .for-print {
-            display: block;
-        }
     }
 </style>

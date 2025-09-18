@@ -56,20 +56,35 @@
 
 
 <style lang="scss">
-    @media print {
-        :root {
-            --bg-color: #fff;
-            --text-color: #000;
-            --highlight-color: #ffcc00;
-            --link-color: var(--text-color);
-            --faded-text: #444;
-        }
-        .controls-container {
-            display: none;
-        }
-    }
-
     :global {
+        @media print {
+            :root {
+                --bg-color: #fff;
+                --text-color: #000;
+                --highlight-color: #ffcc00;
+                --link-color: var(--text-color);
+                --faded-text: #444;
+            }
+            .controls-container {
+                display: none;
+            }
+
+            .for-print {
+                display: block;
+            }
+            .for-screen {
+                display: none;
+            }
+        }
+        @media screen {
+            .for-print {
+                display: none;
+            }
+            .for-screen {
+                display: block;
+            }
+        }
+
         body {
             margin: 0;
             font-family: 'Fira Code', sans-serif;

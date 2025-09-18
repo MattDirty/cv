@@ -43,7 +43,15 @@
                     <List list={hobby.items} />
                 </section>
                 {/each}
-            </section>         
+            </section>
+            <section>
+                <h2>
+                    {$lang === 'fr' ? 'Références disponibles sur demande' : 'References available upon request'}
+                </h2>
+                <h2 class="for-print">
+                    {$lang === 'fr' ? 'Retrouvez moi en ligne sur cv.le-dahu-stud.io' : 'Find me online at cv.le-dahu-stud.io'}
+                </h2>
+            </section>       
         </aside>
         <div class="main-content">
             <section>
