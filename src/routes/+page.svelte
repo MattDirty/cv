@@ -44,14 +44,14 @@
                 </section>
                 {/each}
             </section>
-            <section>
+            <footer>
                 <h2>
                     {$lang === 'fr' ? 'Références disponibles sur demande' : 'References available upon request'}
                 </h2>
                 <h2 class="for-print">
                     {$lang === 'fr' ? 'Retrouvez moi en ligne sur cv.le-dahu-stud.io' : 'Find me online at cv.le-dahu-stud.io'}
                 </h2>
-            </section>       
+            </footer>       
         </aside>
         <div class="main-content">
             <section>
@@ -103,9 +103,19 @@
         }
     }
     aside {
+        display: flex;
+        flex-direction: column;
         border-right: 2px solid #333;
         padding-right: 1rem;
         width: 30%;
+        margin-bottom: 1rem;
+
+        @media print {
+            footer {
+                margin-top: 13rem;
+            }
+        }
+
     }
     .main-content {
         width: 80%;
