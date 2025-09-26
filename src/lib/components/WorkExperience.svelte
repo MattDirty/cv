@@ -42,13 +42,13 @@
             margin: 0.5rem 0 0 0.5rem;
         }
         @media print {
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.2rem;
             .period {
-                margin-bottom: 0.2rem;
+                margin-bottom: 0rem;
             }
 
             ul {
-                margin: 0rem 0 0 0.5rem;
+                margin: 0rem 0 0 0rem;
             }
         }
     }

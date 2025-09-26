@@ -112,7 +112,7 @@
 
         @media print {
             footer {
-                margin-top: 13rem;
+                margin-top: 16rem;
             }
         }
 
@@ -122,5 +122,8 @@
     }
     section {
         margin-bottom: 1rem;
+        @media print {
+            margin-bottom: 0;
+        }
     }
 </style>
